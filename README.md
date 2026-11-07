@@ -22,6 +22,33 @@ A collection of 10 premium React dashboards that serve as the UI layer for a sel
 
 Most automation portfolios show screenshots of n8n canvases. This suite turns each workflow into a fully interactive, production-grade dashboard, so a visitor can interact with the logic directly and see how each workflow behaves when things go wrong.
 
+## Gallery
+
+Click any screenshot to open the live demo.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://lead-enrichment-pipeline.lovable.app"><img src="screenshots/01-lead-enrichment.png" alt="Lead Enrichment Pipeline"/></a><br/><sub><b>1. Lead Enrichment Pipeline</b></sub></td>
+    <td width="50%" align="center"><a href="https://triagedesk.lovable.app"><img src="screenshots/02-triagedesk.png" alt="Triagedesk"/></a><br/><sub><b>2. Triagedesk</b></sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://getsync-command.lovable.app"><img src="screenshots/03-getsync-command.png" alt="GetSync Command"/></a><br/><sub><b>3. GetSync Command</b></sub></td>
+    <td width="50%" align="center"><a href="https://airtable-notion-diff.lovable.app"><img src="screenshots/04-airtable-notion-diff.png" alt="Airtable Notion Diff"/></a><br/><sub><b>4. Airtable Notion Diff</b></sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://stripe-fanout.lovable.app"><img src="screenshots/05-stripe-fanout.png" alt="Stripe FanOut"/></a><br/><sub><b>5. Stripe FanOut</b></sub></td>
+    <td width="50%" align="center"><a href="https://google-slack-sync.lovable.app"><img src="screenshots/06-synchealth.png" alt="SyncHealth"/></a><br/><sub><b>6. SyncHealth</b></sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://data-ingest.lovable.app"><img src="screenshots/07-data-ingest.png" alt="Data Ingest"/></a><br/><sub><b>7. Data Ingest</b></sub></td>
+    <td width="50%" align="center"><a href="https://canvas-deadlines.lovable.app"><img src="screenshots/08-canvas-deadlines.png" alt="Canvas Deadlines"/></a><br/><sub><b>8. Canvas Deadlines</b></sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://routeway-multi-tenant.lovable.app"><img src="screenshots/09-routeway.png" alt="Routeway"/></a><br/><sub><b>9. Routeway</b></sub></td>
+    <td width="50%" align="center"><a href="https://workflow-health.lovable.app"><img src="screenshots/10-workflow-health.png" alt="Workflow Health"/></a><br/><sub><b>10. Workflow Health</b></sub></td>
+  </tr>
+</table>
+
 ## The Suite
 
 | # | Workflow | App | Live Demo | Repo |
