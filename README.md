@@ -1,13 +1,26 @@
+<div align="center">
+
+<img src="./assets/banner.svg" alt="n8n UI Suite: ten interactive dashboards mapped to ten n8n workflows" width="100%"/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=lucide&logoColor=white)
+
+</div>
+
 # n8n UI Suite
 
 A collection of 10 premium React dashboards that serve as the UI layer for a self-hosted n8n automation portfolio. Each app visualizes the logic, edge cases, and failure modes of a specific backend workflow.
 
-**Live Portfolio:** [hensonbrix-portfolio.vercel.app](https://hensonbrix-portfolio.vercel.app)
-**Backend Repository:** [platform-integration-portfolio](https://github.com/Xhenzouu/platform-integration-portfolio)
+- **Live Portfolio:** [hensonbrix-portfolio.vercel.app](https://hensonbrix-portfolio.vercel.app)
+- **Backend Repository:** [platform-integration-portfolio](https://github.com/Xhenzouu/platform-integration-portfolio)
 
 ## Why This Exists
 
-Most automation portfolios show screenshots of n8n canvases. This suite turns each workflow into a fully interactive, production-grade dashboard, proving that the logic runs end-to-end and that a real user could interact with it.
+Most automation portfolios show screenshots of n8n canvases. This suite turns each workflow into a fully interactive, production-grade dashboard, so a visitor can interact with the logic directly and see how each workflow behaves when things go wrong.
 
 ## The Suite
 
@@ -27,19 +40,13 @@ Most automation portfolios show screenshots of n8n canvases. This suite turns ea
 ## Design System
 
 Every app in this suite shares the same design language:
-- Flat charcoal (#1A1918) background with solid surfaces (#2A2A2A)
+
+- Flat charcoal (`#1A1918`) background with solid surfaces (`#2A2A2A`)
 - Serif headers (Georgia) with sans-serif data (Inter)
-- Solid accent colors (cyan #22D3EE, purple #A855F7)
+- Solid accent colors (cyan `#22D3EE`, purple `#A855F7`)
 - No gradients, no glows, no emojis
 - Full Light and Dark mode support
 - Collapsible sidebar navigation with a consistent collapse chevron
-
-## Tech Stack
-
-- React, TypeScript, Tailwind CSS
-- Framer Motion (animations)
-- Lucide React (icons)
-- Built with [Lovable](https://lovable.dev)
 
 ## About
 
