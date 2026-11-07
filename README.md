@@ -18,7 +18,7 @@ Most automation portfolios show screenshots of n8n canvases. This suite turns ea
 | 3 | Shopify to HubSpot Sync | GetSync Command | [Live](https://getsync-command.lovable.app) | [Repo](https://github.com/Xhenzouu/getsync-command) |
 | 4 | Airtable Notion Sync | Airtable Notion Diff | [Live](https://airtable-notion-diff.lovable.app) | [Repo](https://github.com/Xhenzouu/airtable-notion-diff) |
 | 5 | Stripe Payment Fan-Out | Stripe FanOut | [Live](https://stripe-fanout.lovable.app) | [Repo](https://github.com/Xhenzouu/stripe-fanout) |
-| 6 | Google Calendar Slack Sync | OAuth Sync Health | Coming Soon | Coming Soon |
+| 6 | Google Calendar to Slack Sync | SyncHealth | [Live](https://google-slack-sync.lovable.app) | [Repo](https://github.com/Xhenzouu/google-slack-sync) |
 | 7 | Spreadsheet Consolidation | Data Ingest | [Live](https://data-ingest.lovable.app) | [Repo](https://github.com/Xhenzouu/data-ingest) |
 | 8 | Canvas Deadline Aggregator | Canvas Deadlines | [Live](https://canvas-deadlines.lovable.app) | [Repo](https://github.com/Xhenzouu/canvas-deadlines) |
 | 9 | Multi-Tenant Payments | Routeway | [Live](https://routeway-multi-tenant.lovable.app) | [Repo](https://github.com/Xhenzouu/routeway-multi-tenant) |
